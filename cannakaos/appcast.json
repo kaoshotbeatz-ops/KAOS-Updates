@@ -1,0 +1,15 @@
+{
+  "version": "1.0.3",
+  "date": "2026-05-30",
+  "critical": false,
+  "notes": [
+    "Live updates: appcast served from GitHub raw; downloads via GitHub Releases",
+    "patch.sh now auto-pushes commits + tags to GitHub",
+    "Adopt semantic versioning + git version control; appcast auto-bumps",
+    "Strain comparison (side-by-side)",
+    "Universal search, keyboard shortcuts, favorites",
+    "Cannabinoid, product, grow & wellness libraries",
+    "New software update engine"
+  ],
+  "downloadURL": "https://omarhuertas.dev/kaos/cannakaos/latest"
+}
