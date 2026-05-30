@@ -1,16 +1,16 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "Fix release.sh PATH so gh is found during publish",
     "On-device AI engine (model-ready) + full documentation set",
     "180+ strains, Terpene Explorer, Dosing Calculator (Tools tab)",
     "Public update feed via KAOS-Updates; updater points to public raw URL",
     "Live updates: appcast served from GitHub raw; downloads via GitHub Releases",
     "patch.sh now auto-pushes commits + tags to GitHub",
     "Adopt semantic versioning + git version control; appcast auto-bumps",
-    "Strain comparison (side-by-side)",
-    "Universal search, keyboard shortcuts, favorites"
+    "Strain comparison (side-by-side)"
   ],
   "downloadURL": "https://github.com/kaoshotbeatz-ops/KAOS-Updates/releases"
 }
